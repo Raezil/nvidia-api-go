@@ -9,6 +9,3 @@ go to ~/.bashrc and add
 
 - features:
   - nvidia API
-# nvidia-api
-# nvidia-api-go
-# nvidia-api-go
